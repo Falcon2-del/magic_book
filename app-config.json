@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "76ce0f8b-2431-4ff3-8178-4336149adce6", 
+            "id": "c4b8e21a-9f53-412d-a602-7489b532cd18", 
             "flow": ""
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/your-ws-path" 
+          "path": "/assets/v1/metrics/stream-data" 
         }
       }
     }
